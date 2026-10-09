@@ -1,0 +1,72 @@
+﻿economy,status,treat_year,treat_month,law,confidence,notes,barrier
+Viet Nam,treated_in_window,2006.0,7.0,Enterprise Law 2005,unverified,自然人一人LLC自2006-07;世行数据2011年起故实际归入已处理池,
+Sri Lanka,treated_in_window,2007.0,,Companies Act No.7 of 2007,unverified,数据2008年起;无预处理期归入已处理池,
+Colombia,treated_in_window,2009.0,1.0,Law 1258 of Dec 2008 (SAS),unverified,数据2013年起;归入已处理池,
+Brazil,treated_in_window,2012.0,1.0,Law 12441/2011 (EIRELI),verified_secondary,最低资本100倍最低工资;2019-09 Law 13874另设零门槛一人Limitada(SLU)待核实;可编码两次处理,high
+Türkiye,treated_in_window,2012.0,7.0,Commercial Code No.6102,verified_primary,"核实(2026-08-07):art.338(1)/573(1) 允许一人;有限公司 art.580 认缴 1万里拉、art.585(经 2012-06-26 第6335号法在生效前4天修改)登记前实缴25%=2,500;股份公司 art.332 认缴5万/实缴1.25万。非资本门槛:art.335/575 章程须公证(2016年第6728号法才允许在登记处签署)、art.623(1) 有限公司须至少一名股东任经理、art.574 上限50人。2018年第7099号法才取消有限公司预缴(独立第二次放松,不可并入2012)",mid
+Uganda,treated_in_window,2013.0,7.0,Companies Act 2012,verified_secondary,单一成员公司;生效日期(2013-07)待核实,
+India,treated_in_window,2014.0,4.0,Companies Act 2013 s.2(62) OPC,verified_secondary,OPC年注册量小;需MCA单列数据佐证,low
+Argentina,treated_in_window,2015.0,8.0,Civil&Commercial Code (SAU);Law 27349/2017 (SAS),verified_secondary,SAU 2015-08生效;SAS 2017进一步降低门槛,low
+Qatar,excluded_barrier_change,,,SPC since Law 5/2002 (min cap QR200k); Law 11/2015 abolished min cap,verified_secondary,"2002年已合法化故非窗口内处理;2015年改革为门槛取消(高→低),作为对照亦受污染,整体剔出样本;其后注册上升可作门槛机制旁证",
+Kenya,treated_in_window,2016.0,,Companies Act No.17 of 2015,verified_secondary,分阶段生效2015-2016;精确时点待核实;世行数据2017年起预处理期≈0,
+Saudi Arabia,treated_in_window,2016.0,5.0,Companies Law 2015 (Royal Decree M/3),secondary_only,"核实(2026-08-07,仅二手:2015年法原文已被2022年M/132取代,网上可得PDF均为2022版):art.154(1) 允许一人设立有限公司,LLC 无最低资本(1965年法亦无),改用'资本充足'定性标准。传闻的 SAR 50万系股份公司最低资本(由200万降至50万)或 MISA 外资许可门槛,非有限公司要求;'art.154 十万'系误传。非资本门槛:art.154(2) 一名自然人不得拥有一家以上一人有限公司,且一人有限公司不得再持有另一家;亏损达资本50%触发强制解散程序",low
+Mexico,treated_in_window,2016.0,9.0,LGSM reform Mar 2016 (SAS),verified_secondary,SAS注册2016-09启动;唯一允许一人的商事形式,low
+Malaysia,treated_in_window,2017.0,1.0,Companies Act 2016 (Act 777),verified_primary,"核实(2026-08-07):2017-01-31生效;s.9 仅要求至少一名成员、一股、一名董事,s.74 取消票面价值,全文无'最低资本'字样(零占位);'RM1'系业界说法非法定。真正门槛非资本:s.196(4) 最低法定人数的董事须以马来西亚为主要居所、s.235 须在30日内委任马来西亚公民/永久居民且持牌的公司秘书、s.267(1) 审计为默认义务(豁免自 PD 3/2017 起分阶段,改革当年尚不适用);注册费 RM1,000(P.U.(A)37)",high
+Switzerland,excluded_formality_only,2008.0,1.0,Federal Act of 16 Dec 2005 (GmbH law revision + AG amendments); in force 2008-01-01,verified_secondary,"2005修法取消AG三名/GmbH两名设立人下限,但联邦法院自BGE 81 II 455 (1955)起即承认Einmanngesellschaft的法人格,一人实质持股从未被禁止;故2008为设立形式要件的取消,非窗口内合法化事件(同卡塔尔逻辑)。另仅2个预处理年(2006-2007),且世行序列2020年起有断裂。处理组与对照池均剔出",
+Egypt,treated_in_window,2018.0,1.0,Law No.4 of 2018 amending Law 159/1981,verified_primary,"核实(2026-08-07):2018-01-16公布;最低资本 5万埃镑且设立时须全额实缴——但该数额由执行条例 art.287mukarrar-2(投资部长第16/2018号令)规定,法律本身只定全额实缴并授权,引用'Law 4/2018'定数额属引证错误。约为当年人均GNI的1.16倍=样本内高门槛。非资本门槛:须公证(不动产登记与公证局)、须委任审计师、禁止银行保险等业务、股权分割须90日内转型、所有者死亡除单一继承人外解散;一人公司不得再设一人公司,但未见禁止自然人持有多家(与沙特不同,二手文献常误载)。2022-08 总理令2928号将门槛降至1,000埃镑(样本期后)。改革同期伴随2017年第72号投资法与GAFI一站式(1个工作日、约599埃镑),捆绑严重",high
+Myanmar,treated_in_window,2018.0,8.0,Myanmar Companies Law 2017,verified_secondary,2018-08-01生效;一人一股一董事,
+Philippines,treated_in_window,2019.0,5.0,RA 11232 Revised Corporation Code (OPC),verified_secondary,2019-02-20签署;SEC约2019-05受理;受理月待核实,low
+Ghana,treated_in_window,2019.0,8.0,Companies Act 2019 (Act 992),verified_primary,"核实(2026-08-07):同意日=公报日=2019-08-02;Act 992 无明文生效条款,依 Interpretation Act 2009 (Act 792) ss.17-18 自公报日生效。全文检索无任何最低股本条款(GHS 500 系旧 Act 179 及登记处惯例,非 Act 992 要求);但 s.171(1) 强制至少两名董事且一名须常驻加纳,故加纳只创设'一股东公司'而非'一人公司'——非资本类门槛",
+Uruguay,treated_in_window,2020.0,1.0,Law 19820 (SAS),verified_secondary,Law 19820颁布2019-09-18;Decree 399/019;制度自2020-01-01运作,low
+Ecuador,treated_in_window,2020.0,2.0,Ley de Emprendimiento (SAS),verified_secondary,创业创新组织法刊2020-02-28官方公报;SAS单一股东零最低资本,low
+Bangladesh,treated_in_window,2021.0,5.0,Companies (Second Amendment) Act 2020 (Act 24 of 2020),verified_primary,"法名更正(2026-08-07):系'第二修正案'Act 24 of 2020,2020-11-18 议会通过、2020-11-26 公报;RJSC 自 2021-05-23 受理,处理年=2021。新增 1994 年公司法第十-甲编 ss.392A-392K;s.392C 规定实缴股本 250万–5000万 BDT 且上一财年营业额 1000万–5亿 BDT(非 100 亿),即法定排除初创企业;s.392B(2) 一人限设一家;官方合并本无 2023 年修订",high
+Nigeria,treated_in_window,2021.0,1.0,CAMA 2020,verified_primary,"核实(2026-08-07):s.18(2) 允许一人设立私人公司;s.27(2)(a)/s.124 最低已发行股本 10万奈拉;s.394(3)'小公司'可仅一名董事(s.271(1))、免秘书(s.330)、免年会(s.237)、免审计(s.402),但小公司要求无外籍股东。判决日期更正:上诉法院 CAC v. Primetech, CA/ABJ/CV/1226/2024, 2026-06-10(维持联邦高等法院 FHC/ABJ/CS/665/2023, 2024-07-30),两审均未公开判决书全文",low
+Ethiopia,treated_in_window,2021.0,4.0,Commercial Code Proclamation 1243/2021,verified_primary,"核实(2026-08-07):第八编 Art.534-545 首设一人 PLC;Art.535 最低资本 15,000 ETB(沿用 1960 年法典,未降未废),Art.536(2)(g) 须声明已全额实缴;Art.536(1) 设立声明须经认证机关公证、Art.537 提名人须另行公证接受;Art.539 一人 PLC 不得再设一人 PLC(限公司不限自然人);无营业额上限",mid
+Indonesia,treated_in_window,2022.0,,Law 11/2020 Job Creation (Perseroan Perorangan),verified_secondary,细则PP8/2021 2021-02;注册系统约2021下半年上线;编码2022为首个完整处理年,low
+United Arab Emirates,treated_in_window,2022.0,1.0,Federal Decree-Law 32/2021,verified_secondary,2022-01-02生效;此前2015 CCL已允许单一自然人LLC?待核实若是则应编码2015,
+Thailand,never_treated,,,Civil&Commercial Code min 2 shareholders (3 until Feb 2023),verified_secondary,截至2024末仍不允许一人公司;核心never-treated对照,
+Germany,always_treated,,,Einmann-GmbH since 1980; EU 12th Directive 89/667/EEC,unverified,EU指令要求1992年前转化,
+France,always_treated,,,EURL since 1985; EU 12th Directive,unverified,,
+United Kingdom,always_treated,,,EU 12th Directive transposed 1992,unverified,,
+Italy,always_treated,,,Srl unipersonale 1993; EU 12th Directive,unverified,,
+Spain,always_treated,,,SLU; EU 12th Directive,unverified,,
+Netherlands,always_treated,,,EU 12th Directive,unverified,,
+Belgium,always_treated,,,EU 12th Directive (SPRLU 1987),unverified,,
+Luxembourg,always_treated,,,EU 12th Directive,unverified,,
+Denmark,always_treated,,,EU 12th Directive,unverified,,
+Ireland,always_treated,,,EU 12th Directive,unverified,,
+Greece,always_treated,,,EU 12th Directive,unverified,,
+Portugal,always_treated,,,EU 12th Directive,unverified,,
+Austria,always_treated,,,EU 12th Directive,unverified,,
+Finland,always_treated,,,EU 12th Directive,unverified,,
+Sweden,always_treated,,,EU 12th Directive,unverified,,
+Poland,always_treated,,,EU acquis by 2004 accession,unverified,,
+Czechia,always_treated,,,EU acquis by 2004 accession,unverified,,
+Slovak Republic,always_treated,,,EU acquis by 2004 accession,unverified,,
+Hungary,always_treated,,,EU acquis by 2004 accession,unverified,,
+Slovenia,always_treated,,,EU acquis by 2004 accession,unverified,,
+Estonia,always_treated,,,EU acquis by 2004 accession,unverified,,
+Latvia,always_treated,,,EU acquis by 2004 accession,unverified,,
+Lithuania,always_treated,,,EU acquis by 2004 accession,unverified,,
+Malta,always_treated,,,EU acquis by 2004 accession,unverified,,
+Cyprus,always_treated,,,EU acquis by 2004 accession,unverified,,
+Bulgaria,always_treated,,,EOOD; EU acquis by 2007 accession,unverified,,
+Romania,always_treated,,,SRL single member since 1990; EU acquis,unverified,,
+Croatia,always_treated,,,ZTD 1993 single-member d.o.o.,unverified,2013入盟但1993已允许,
+Norway,always_treated,,,AS single shareholder,unverified,,
+China,always_treated,,,Company Law 2005 effective 2006-01,verified_secondary,数据仅上海且窗口起点即处理;不可用作处理组,
+Japan,always_treated,,,one-person KK since 1990; Companies Act 2005,unverified,,
+Korea Rep.,always_treated,,,Commercial Act amendment 2001,unverified,世行名Korea Rep.含逗号已改写;合并时注意,
+Singapore,always_treated,,,Companies (Amendment) Act 2004 effective 2005-04,unverified,,
+Hong Kong SAR China,always_treated,,,Companies (Amendment) Ordinance 2003 one-member,unverified,世行名含逗号已改写,
+Taiwan China,always_treated,,,Company Act amendment 2001 one-person Ltd,unverified,世行名含逗号已改写,
+Pakistan,always_treated,,,SMC Ordinance 2002 / Rules 2003,unverified,,
+Chile,always_treated,,,EIRL Law 19857 (2003); SpA 2007,unverified,,
+Peru,always_treated,,,EIRL D.L.21621 (1976),unverified,,
+Canada,always_treated,,,single incorporator permitted (CBCA),unverified,数据仅联邦+魁北克+新斯科舍,
+Australia,always_treated,,,single member proprietary company since 1995,unverified,,
+New Zealand,always_treated,,,Companies Act 1993 one shareholder,unverified,,
+Russian Federation,always_treated,,,single founder LLC (Civil Code 1994),unverified,,
+Morocco,always_treated,,,SARL associe unique Law 5-96 (1997),unverified,,
+Algeria,always_treated,,,EURL Ordinance 96-27 (1996),unverified,,
+Tunisia,always_treated,,,SUARL Code des societes 2000,unverified,,
